@@ -44,5 +44,5 @@ hr{
   padding: 1rem 1rem;
 }
 h6{
-  color: white;
+  color: white !important;
 }
